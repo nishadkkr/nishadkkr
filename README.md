@@ -3,3 +3,4 @@
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
