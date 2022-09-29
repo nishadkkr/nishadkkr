@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishad</h1>
+<h1 align="center">Hello Folks 👋, I'm Nishad</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
 - 🔭 I’m currently working on **Jenkins**
@@ -11,4 +11,4 @@
 
 - 📫 How to reach me **nishadp9996@gmail.com**
 
-\# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?p-nishad=<USERNAME>&theme=<THEME_NAME>" />
