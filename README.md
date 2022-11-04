@@ -17,6 +17,9 @@
   <a href="https://www.linkedin.com/in/nishad-p-97881a22b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.instagram.com/nishad_d_e_v/">
+    <img src="https://img.shields.io/badge/Instagra-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
   
 
