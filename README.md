@@ -28,7 +28,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=p-nishad&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=p-nishad&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=p-nishad&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<p><img align="left" width="490" src="https://github-readme-stats.vercel.app/api/top-langs?username=p-nishad&show_icons=true&locale=en&layout=compact" alt="p-nishad" /></p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=p-nishad&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
