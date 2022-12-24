@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Jenkins,Docker,Kubernetes,AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/p-nishad](https://github.com/p-nishad)
 
 - 💬 Ask me about **Python,Django,HTML,Bootstrap,CSS,C,Java**
 
