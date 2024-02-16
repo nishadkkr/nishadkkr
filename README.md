@@ -38,9 +38,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nishadkkr&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=nishadkkr&theme=merko&hide_border=true)<br/>
-
-<p align="absolute">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nishadkkr&theme=merko&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishadkkr&theme=merko&hide_border=true" alt="GitHub Streak">
 </p>
