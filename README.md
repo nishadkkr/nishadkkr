@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Jenkins,Docker,Kubernetes,AWS**
 
 
-- 💬 Ask me about **Python,Django,HTML,Bootstrap,CSS,C,Java**
+- 💬 Ask me about **Linux,Docker,Kubernetes,Shell Script,AWS,GCP,Azure,Git,GitHub,Jenkins,Terraform**
 
 - 📫 How to reach me **nishadp9996@gmail.com**
 
