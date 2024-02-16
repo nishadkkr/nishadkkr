@@ -40,6 +40,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nishadkkr&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=nishadkkr&theme=merko&hide_border=true)<br/>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishadkkr&theme=merko&hide_border=false&include_all_commits=true&count_private=false) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishadkkr&theme=merko&hide_border=true)
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishadkkr&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
