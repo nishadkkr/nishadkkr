@@ -1,9 +1,9 @@
 <h1 align="center">Hello Folks 👋, I'm Nishad</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<h3 align="center">A Passionate DevOps Engineer</h3>
 
-- 🔭 I’m currently working on **Jenkins** **Docker** **Kubernetes**
+- 🔭 I’m currently working on **Jenkins** **Docker** **Kubernetes** **Cloud**
 
-- 🌱 I’m currently learning **Jenkins,Docker,Kubernetes,AWS**
+- 🌱 I’m currently learning **Jenkins,Docker,Kubernetes,Cloud**
 
 
 - 💬 Ask me about **Linux,Docker,Kubernetes,Shell Script,AWS,GCP,Azure,Git,GitHub,Jenkins,Terraform**
